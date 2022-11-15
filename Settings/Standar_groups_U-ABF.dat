@@ -1,0 +1,8 @@
+[Settings]
+removal rule = 2 
+warp factor  = 1
+edge removal = 1
+annotate name = 1
+use groups = 1
+groups file = Grupos_3_esc.txt
+BLP = 0.15
